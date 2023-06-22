@@ -62,5 +62,10 @@ FROM Books
 GROUP BY BookType  
 ORDER BY BookType
 ```
+# Output:
+![image](https://github.com/SOMEASVAR/MYSQL-07/assets/93434149/d9d451f9-a722-42b8-9c6e-c41f67aaf679)
+![image](https://github.com/SOMEASVAR/MYSQL-07/assets/93434149/a5efabbb-8b57-400c-82ff-afc846a6ceb7)
+
+
 # Result:
 Therefore we have successfully performed aggregate functions on table.
